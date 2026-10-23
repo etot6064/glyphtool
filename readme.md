@@ -6,4 +6,4 @@ A small tool I made to view all the characters in the default font of the graphx
 
 If you just want the results, here's a screenshot from CEmu.
 
-![Chart of all the glyphs](screenshot.png)
+![Chart of all the glyphs](screenshot_cropped.png)
